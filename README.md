@@ -1,5 +1,5 @@
 # Aston
-This is a fork of the Aston repository, which aims to interprete chromatographic data in a variety of file formats. In fall 2021 I wrote some Python code building on the services offered by this repository that enables the exporting of UV spectroscopy data to a few file formats, which is located in "
+This is a fork of the Aston repository, which aims to interprete chromatographic data in a variety of file formats. In fall 2021 I wrote some Python code building on the services offered by this repository that enables the exporting of UV spectroscopy data to a few file formats, which is located in "interpret_data.py".
 
 [![Travis CI](https://travis-ci.org/bovee/Aston.svg?branch=master)](https://travis-ci.org/bovee/Aston/)
 
